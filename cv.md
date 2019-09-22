@@ -6,7 +6,7 @@
 4. Skills: *HTML&CSS, git, js, es6, C, C++, Bootstrap 4, React, VS Code, WebStorm.*
 5. [Code examples.](https://bitbucket.org/artacab/first-react-app/src/master/src/)
 6. Experience: *Software Development Courses. https://bitbucket.org/dashboard/overview.*
-7. Education: *itclass.by, YouTube (ITVDN, WebDeveloper Blog, CodeJojo), Codeacademy;*
+7. Education: *itclass.by, YouTube (ITVDN, WebDeveloper Blog, CodeJojo,WebForMySelf, Codeacademy);*
 8. English: *pre intermediate(A2).*
 
 
